@@ -4,7 +4,11 @@ Core
 * [options] Apply custom config to final composite configuration (#11741)
 * [YoutubeDL] Improve protocol auto determining (#11720)
 
-Extractors
+Extractors self-made updated:
++ Unicode UTF-8 support for Json data (dump Json file with -j; -J; and --write-info-Json).  
++ New query search filter added, based on "FEATURES" search : Creative Commons, HD, 4K (YouTube only) 
+
+Extractors from official update: 
 * [xiami] Relax URL regular expressions
 * [xiami] Improve track metadata extraction (#11699)
 + [limelight] Check hand-make direct HTTP links
