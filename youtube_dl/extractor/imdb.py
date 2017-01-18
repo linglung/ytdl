@@ -32,6 +32,9 @@ class ImdbIE(InfoExtractor):
     }, {
         'url': 'http://www.imdb.com/title/tt1667889/#lb-vi2524815897',
         'only_matching': True,
+    }, {
+        'url': 'http://www.imdb.com/videoplayer/vi1562949145',
+        'only_matching': True,
     }]
 
     def _real_extract(self, url):
