@@ -28,8 +28,8 @@ additional usage For **YouTube FEATURES** (creative commons, 4K video, HD):
 - Search and download any 4K videos (if available )match to the keyword search query.
 `youtube-dl ytsearch4k:"Ubuntu Tutorial"` 
 
-**For demonstration** 
-here you go : 
+**Demonstration** 
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7Y8mjp62mEE
 " target="_blank"><img src="http://img.youtube.com/vi/7Y8mjp62mEE/0.jpg" 
 alt="Contoh Pemakaian" width="360" height="240" border="10" /></a>
