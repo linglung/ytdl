@@ -13,7 +13,7 @@ youtube-dl - download videos from youtube.com or other video platforms
 For full description and all stuffs, just go to the origin repo master : https://github.com/rg3/youtube-dl  
 
 **NOTE** 
-This is just a copy of original repository from here: https://github.com/rg3/youtube-dl with a litle modification as **the main purpose is for private usage only**. All credits go to the original and all contributors.
+This is just a copy of original repository, a litle modification as **the main purpose is for private usage only**. 
 
 A minor change here such as it supports for searching and downloading YouTube videos based on **FEATURES** filter (creative commons, 4K video and HD). Credit goes to Vordep.  
 
