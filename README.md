@@ -7,6 +7,7 @@ youtube-dl - download videos from youtube.com or other video platforms
 # INSTALLATION
 
     pip install https://github.com/linglung/ytdl/archive/master.zip
+    
 
 # DESCRIPTION
 For full description and all stuffs, just go to the origin repo master : https://github.com/rg3/youtube-dl  
@@ -14,7 +15,7 @@ For full description and all stuffs, just go to the origin repo master : https:/
 **NOTE** 
 This is just a copy of original repository from here: https://github.com/rg3/youtube-dl with a litle modification as **the main purpose is for private usage only**. All credits go to the original and all contributors.
 
-A minor change here such as it supports for searching and downloading YouTube videos based on **FEATURES** filter (creative commons, 4K video and HD). This portion was contributed by Vordep. A big thank to him. https://github.com/vordep 
+A minor change here such as it supports for searching and downloading YouTube videos based on **FEATURES** filter (creative commons, 4K video and HD). Credit goes to Vordep.  
 
 **Example** 
 additional usage For **YouTube FEATURES** (creative commons, 4K video, HD):  
